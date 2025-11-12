@@ -1,3 +1,6 @@
+<img width="1024" height="490" alt="image" src="https://github.com/user-attachments/assets/1c2b9814-df4d-44d0-bf2a-1b91e0ba5791" />
+
+
 # 🌾 AgriPredict India: Optimal Crop Prediction
 
 **AgriPredict India** is a machine learning-powered web application designed to assist Indian farmers and agricultural analysts in determining the most suitable crop variety for specific environmental and soil conditions.
